@@ -1,2 +1,3 @@
-# Sea Creeper
-Open Source Data Translation &amp; Manipulation Platform
+# Scribes
+
+Pushes data from creepers to various databases. Also, acts as a bridge to query these databases. 
